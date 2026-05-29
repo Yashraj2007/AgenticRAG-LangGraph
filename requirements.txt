@@ -1,0 +1,30 @@
+# Core LangChain stack
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+
+# LangGraph + checkpointing
+langgraph
+langgraph-checkpoint-sqlite
+
+# Vector store
+faiss-cpu
+
+# Embeddings (local, no API key needed)
+sentence-transformers
+
+# Data validation / structured outputs
+pydantic
+
+# Web scraping (primary + fallback loader)
+beautifulsoup4
+lxml
+requests
+
+# Environment / config
+python-dotenv
+
+# Notebook display utilities
+ipython
